@@ -1,0 +1,25 @@
+.main-footer {
+	color: #1e656d;
+	background-color: whitesmoke;
+	padding-top: 3em;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	font-family: "Roboto";
+}
+.footer-link {
+	color: #1e656d;
+}
+a:link {
+	text-decoration: none;
+}
+a:hover {
+	color: #f62a00 !important;
+}
+.res-font {
+	font-size: 1.6vmin;
+}
+.res-font-title {
+	font-size: 2.2vmin;
+	font-weight: normal;
+}
